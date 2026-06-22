@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project focuses on understanding web application security concepts using OWASP Juice Shop. The goal was to explore authentication workflows, analyze web application behavior, and learn how common vulnerabilities impact web applications.
+This project focuses on understanding web application security concepts using OWASP Juice Shop. The objective was to explore web application functionality, authentication workflows, and browser-based analysis techniques.
 
 ---
 
 ## Why I Built This
 
-I wanted to gain hands-on experience with web application security testing and understand how security professionals evaluate web applications.
+I wanted to gain hands-on experience with web application security and learn how security professionals analyze web applications and investigate user interactions.
 
 ---
 
@@ -22,28 +22,28 @@ I wanted to gain hands-on experience with web application security testing and u
 
 ## What I Built
 
-* Explored OWASP Juice Shop
-* Analyzed login functionality
-* Investigated web application behavior using browser tools
-* Documented security concepts and observations
+* Explored the OWASP Juice Shop web application
+* Investigated the login and authentication interface
+* Used browser Developer Tools to inspect application components
+* Documented observations and security concepts
 
 ---
 
 ## Results
 
+* Accessed and analyzed a deliberately vulnerable web application
 * Explored authentication workflows
 * Investigated client-side application behavior
-* Observed user input handling
-* Learned foundational web application security concepts
+* Used browser inspection tools to understand page structure
 
 ---
 
 ## What I Learned
 
-* Web application architecture
+* Web application architecture fundamentals
 * Authentication concepts
 * Browser inspection techniques
-* Security testing fundamentals
+* Basic web security testing methodology
 
 ---
 
@@ -57,4 +57,4 @@ I wanted to gain hands-on experience with web application security testing and u
 
 ## Key Takeaway
 
-This project demonstrated my ability to analyze web applications, understand authentication workflows, and investigate application behavior using security-focused techniques.
+This project demonstrated my ability to analyze web applications, understand authentication workflows, and utilize browser-based tools to investigate application behavior.
