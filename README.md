@@ -1,50 +1,60 @@
-# web-app-security-project
-Web application security testing using OWASP Juice Shop and Burp Suite
-# Web Application Security Testing (OWASP Juice Shop)
+# Web App Security Project
 
 ## Overview
-This project focuses on identifying and analyzing common web application vulnerabilities using OWASP Juice Shop and Burp Suite.
+
+This project focuses on understanding web application security concepts using OWASP Juice Shop. The goal was to explore authentication workflows, analyze web application behavior, and learn how common vulnerabilities impact web applications.
 
 ---
 
-## 🎯 Why I Built This
-To understand how real-world web attacks work and how security professionals identify and mitigate vulnerabilities in applications.
+## Why I Built This
+
+I wanted to gain hands-on experience with web application security testing and understand how security professionals evaluate web applications.
 
 ---
 
-## 🛠️ Tools Used
-- OWASP Juice Shop
-- Burp Suite Community Edition
-- Chrome Developer Tools
-- Kali Linux (optional)
+## Tools Used
+
+* OWASP Juice Shop
+* Browser Developer Tools
+* Kali Linux
 
 ---
 
-## ⚙️ What I Did
-- Installed OWASP Juice Shop in a virtual environment
-- Intercepted HTTP requests using Burp Suite
-- Identified common vulnerabilities:
-  - SQL Injection
-  - Cross-Site Scripting (XSS)
-  - Broken Authentication
-- Documented attack methods and fixes
+## What I Built
+
+* Explored OWASP Juice Shop
+* Analyzed login functionality
+* Investigated web application behavior using browser tools
+* Documented security concepts and observations
 
 ---
 
-## 📊 Results / Metrics
-- Discovered 8+ vulnerabilities in a test web application
-- Successfully executed 3 XSS payloads in controlled environment
-- Captured and analyzed 50+ HTTP requests using Burp Suite
+## Results
+
+* Explored authentication workflows
+* Investigated client-side application behavior
+* Observed user input handling
+* Learned foundational web application security concepts
 
 ---
 
-## 🧠 What I Learned
-- How web attacks are executed in real-world systems
-- How HTTP requests can be manipulated
-- How developers prevent injection and XSS attacks
-- Basics of secure web application design
+## What I Learned
+
+* Web application architecture
+* Authentication concepts
+* Browser inspection techniques
+* Security testing fundamentals
 
 ---
 
-## 📌 Key Takeaway
-This project demonstrated my ability to identify web application vulnerabilities and understand how attackers exploit insecure code.
+## Screenshots
+
+1. OWASP Juice Shop Homepage
+2. Login Page
+3. Browser Developer Tools Analysis
+
+---
+
+## Key Takeaway
+
+This project demonstrated my ability to analyze web applications, understand authentication workflows, and investigate application behavior using security-focused techniques.
